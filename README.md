@@ -21,7 +21,7 @@ Create and customize beautiful wedding cards with this online Wedding Card Edito
 
 ## Demo
 
-[Live Demo](#) - Add a link to the live demo of your Wedding Card Editor if applicable.
+[Live Demo](https://mayankkuthar.github.io/Wedding-Card-Editor/) - Add a link to the live demo of your Wedding Card Editor if applicable.
 
 ## Getting Started
 
