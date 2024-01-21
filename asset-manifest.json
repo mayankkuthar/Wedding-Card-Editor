@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Wedding-Card-Editor/static/css/main.f855e6bc.css",
+    "main.js": "/Wedding-Card-Editor/static/js/main.4d63dde8.js",
+    "static/js/496.0d63e562.chunk.js": "/Wedding-Card-Editor/static/js/496.0d63e562.chunk.js",
+    "index.html": "/Wedding-Card-Editor/index.html",
+    "main.f855e6bc.css.map": "/Wedding-Card-Editor/static/css/main.f855e6bc.css.map",
+    "main.4d63dde8.js.map": "/Wedding-Card-Editor/static/js/main.4d63dde8.js.map",
+    "496.0d63e562.chunk.js.map": "/Wedding-Card-Editor/static/js/496.0d63e562.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4d63dde8.js"
+  ]
+}
