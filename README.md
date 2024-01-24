@@ -16,9 +16,7 @@ Create and customize beautiful wedding cards with this online Wedding Card Edito
 - **Text Customization:** Add, edit, and customize text on the wedding card.
 - **Font Selection:** Choose from a variety of fonts to personalize the text.
 - **Color Options:** Set colors for text and background to match your wedding theme.
-- **Alignment:** Align text left, center, or right to create visually appealing designs.
-- **Undo and Redo:** Easily undo or redo changes during the card customization process.
-
+- 
 ## Demo
 
 [Live Demo](https://mayankkuthar.github.io/Wedding-Card-Editor/) - Add a link to the live demo of your Wedding Card Editor if applicable.
